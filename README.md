@@ -1,7 +1,9 @@
 # Data Structures In Python
 We will learn most important Python data structures.
 
-Lists and List functions <br/>
-Tuples <br/>
-Dictionary and Dictionay Methods<br/>
-Sets<br/>
+<ul>
+<li>Lists and List functions </li>
+<li>Tuples </li>
+<li>Dictionary and Dictionay Methods</li>
+<li>Sets</li>
+</ul>
